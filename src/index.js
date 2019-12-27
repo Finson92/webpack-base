@@ -4,4 +4,4 @@
  */
 // 假设 ， main.js 还是我们的入口文件
 
-console.log('okoo')
+console.log('okoo1')
