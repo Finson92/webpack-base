@@ -1,2 +1,0 @@
-# webpack-base
-test
